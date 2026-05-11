@@ -1,16 +1,63 @@
-# React + Vite
+# 📚 Study Tools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based study tools app designed to help students stay productive, organized, and focused while learning.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* React JS
+* JavaScript
+* CSS / Tailwind CSS (edit if needed)
+* Vite / CRA (edit depending on your setup)
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add screenshots or demo images here.
 
-## Expanding the ESLint configuration
+## 📂 Project Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+Move into the project folder:
+
+```bash
+cd your-repo-name
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🌐 Live Demo
+
+Add your deployed link here.
+
+## 📌 Future Improvements
+
+* Add authentication
+* Add dark mode
+* Save user progress
+* Add AI-powered study recommendations
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork the project and submit a pull request.
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+Made with ❤️ using React JS

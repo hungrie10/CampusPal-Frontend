@@ -1,0 +1,87 @@
+PHYSICS STUDY NOTES
+
+Topic: Newton’s Laws of Motion
+
+Newton’s First Law states that an object will remain at rest or continue moving at constant velocity unless acted upon by an external force. This law is also called the law of inertia.
+
+Newton’s Second Law explains the relationship between force, mass, and acceleration. The formula is:
+
+Force = Mass × Acceleration
+
+This is written as:
+
+F = ma
+
+An object with greater mass requires more force to accelerate at the same rate.
+
+Newton’s Third Law states that for every action, there is an equal and opposite reaction. When a person pushes against a wall, the wall pushes back with equal force.
+
+Topic: Kinetic and Potential Energy
+
+Kinetic energy is the energy possessed by an object because of its motion. The formula for kinetic energy is:
+
+KE = 1/2 mv²
+
+Potential energy is stored energy due to position or height. Gravitational potential energy is calculated using:
+
+PE = mgh
+
+Where:
+m = mass
+g = acceleration due to gravity
+h = height
+
+Topic: Electricity
+
+Electric current is the flow of electric charge through a conductor. Current is measured in amperes.
+
+Voltage is the electrical potential difference between two points.
+
+Resistance opposes the flow of electric current.
+
+Ohm’s Law states:
+
+V = IR
+
+Where:
+V = voltage
+I = current
+R = resistance
+
+Topic: Waves
+
+Waves transfer energy without transferring matter.
+
+The main parts of a wave include:
+- Crest
+- Trough
+- Amplitude
+- Wavelength
+- Frequency
+
+Sound waves are mechanical waves and require a medium to travel.
+
+Light waves are electromagnetic waves and can travel through a vacuum.
+
+Topic: Gravity
+
+Gravity is the force of attraction between objects with mass.
+
+The acceleration due to gravity on Earth is approximately 9.8 m/s².
+
+The gravitational force between two objects depends on their masses and the distance between them.
+
+Topic: Momentum
+
+Momentum is the product of mass and velocity.
+
+Momentum formula:
+
+p = mv
+
+Where:
+p = momentum
+m = mass
+v = velocity
+
+The law of conservation of momentum states that momentum remains constant in a closed system unless acted upon by external forces.

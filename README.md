@@ -46,7 +46,6 @@ Add your deployed link here.
 ## 📌 Future Improvements
 
 * Add authentication
-* Add dark mode
 * Save user progress
 * Add AI-powered study recommendations
 

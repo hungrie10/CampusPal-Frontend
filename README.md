@@ -1,7 +1,7 @@
 # CampusPal ✨
 Your AI-powered university companion for smarter studying, collaboration, and productivity.
 
-# Description
+## Description
 CampusPal is an AI-powered academic and social platform designed to improve the university experience for students.
 
 The platform helps students study smarter through AI-generated quizzes, voice-to-slide presentation generation, intelligent note processing, and collaborative study tools. It also creates a connected campus ecosystem where students can interact with AI assistants, mentors, classmates, and study groups in one unified space.

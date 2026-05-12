@@ -1,4 +1,4 @@
-## CampusPal ✨
+# CampusPal ✨
 Your AI-powered university companion for smarter studying, collaboration, and productivity.
 
 # Description
